@@ -1,0 +1,9 @@
+.settings
+.vscode
+.cproject
+.project
+Debug
+.mcuxpressoide_packages_support
+.metadata
+/bin/
+*.launch

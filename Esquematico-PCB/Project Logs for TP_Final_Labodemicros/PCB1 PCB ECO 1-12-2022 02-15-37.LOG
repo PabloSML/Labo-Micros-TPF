@@ -1,0 +1,78 @@
+Added Component: Designator=CONN_CAM(HDR2X9H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CUI_PJ-036AH-SMT-TR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PJ-036AH-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=U?(BGA121C65P11X11_800X800X50N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MK64FN1M0VDC12/NXP%20Semiconductors/view-part/5682216/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MK64FN1M0VDC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MK64FN1M0VDC12/NXP%20Semiconductors/view-part/5682216/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=CONN_CAM-1
+Added Pin To Net: NetName=3V3 Pin=CONN_CAM-17
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=J?-1
+Added Net: Name=5V
+Added Pin To Net: NetName=D0 Pin=CONN_CAM-16
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=CONN_CAM-15
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=CONN_CAM-14
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=CONN_CAM-13
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=CONN_CAM-12
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=CONN_CAM-11
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=CONN_CAM-10
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=CONN_CAM-9
+Added Net: Name=D7
+Added Pin To Net: NetName=GND Pin=CONN_CAM-2
+Added Pin To Net: NetName=GND Pin=CONN_CAM-18
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=HREF Pin=CONN_CAM-6
+Added Net: Name=HREF
+Added Pin To Net: NetName=PCLK Pin=CONN_CAM-7
+Added Net: Name=PCLK
+Added Pin To Net: NetName=SIOC Pin=CONN_CAM-3
+Added Pin To Net: NetName=SIOC Pin=R?-1
+Added Net: Name=SIOC
+Added Pin To Net: NetName=SIOD Pin=CONN_CAM-4
+Added Pin To Net: NetName=SIOD Pin=R?-1
+Added Net: Name=SIOD
+Added Pin To Net: NetName=VSYNC Pin=CONN_CAM-5
+Added Net: Name=VSYNC
+Added Pin To Net: NetName=XCLK Pin=CONN_CAM-8
+Added Net: Name=XCLK
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2

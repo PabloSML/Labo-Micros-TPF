@@ -1,0 +1,11 @@
+Added Component: Designator=J(ARJC01-111002AR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARJC01-111002AR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARJC01-111002AR/Abracon%20LLC/view-part/586362/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet2 Member=Component J ARJC01-111002AR
+Added Member To Class: ClassName=Sheet2 Member=Component R? RES_10k_SMD_RMCF0603FT10K0

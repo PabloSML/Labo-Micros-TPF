@@ -1,0 +1,26 @@
+Added Component: Designator=ARJ45(ABRACON_ARJ11B-MBSAO-A-B-ELU2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4000293"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARJ11B-MBSAO-A-B-ELU2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARJ11B-MBSAO-A-B-ELU2/Abracon%20LLC/view-part/4000293/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CONN_MAG(MHDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CONN_MAG-1
+Added Pin To Net: NetName=5V Pin=CONN_MAG-5
+Added Pin To Net: NetName=MAG_CLK Pin=CONN_MAG-3
+Added Net: Name=MAG_CLK
+Added Pin To Net: NetName=MAG_DT Pin=CONN_MAG-2
+Added Net: Name=MAG_DT
+Added Pin To Net: NetName=MAG_EN Pin=CONN_MAG-4
+Added Net: Name=MAG_EN
+Added Member To Class: ClassName=Sheet2 Member=Component ARJ45 ARJ11B-MBSAO-A-B-ELU2
+Added Member To Class: ClassName=Sheet2 Member=Component CONN_MAG MHDR1X5
+Added Member To Class: ClassName=Sheet2 Member=Component R? RES_10k_SMD_RMCF0603FT10K0
